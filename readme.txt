@@ -1,0 +1,2 @@
+Diseño de pagina web para empresa de alimentos, implementada con HTML5, CSS y Javascript. Diseño funcional y responsivo adaptado a requerimientos básicos de empresa. Se presenta una conexion a RRSS y galeria de imagenes.
+Imagenes tomadas de Pexel.com, Pixabay.com e imagenes provistas por el solicitante del desarrollo.
